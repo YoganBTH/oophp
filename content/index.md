@@ -1,25 +1,17 @@
 ---
-title: "Min fina titel"
+title: "Johans Me-Sida"
 ---
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+<img class="me" src="img/me.jpg" alt="Johan i Gokart" class="right" width="100px">
 
-[FIGURE src="image/me.jpg?w=500" caption="Bild på mig"]
+Tjena, Mitt namn är Johan Lundqvist. Uppväxt i Borlänge. Som liten spelade jag fotboll och sedan badminton. Sen fastnade jag för datorspel och slutade med sporter.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Min pappa har kört rally och folkrace i sina yngre dagar, och jag verkar ha fått ärvt det intresset. Som liten satt jag och rattade bilspel på datorn och älskade att åka hyrkart när man väl nådde den åldern.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+2014 Lyckades jag köpa en egen gokart med hjälp av sponsring av mina föräldrar. Åkningen gick trögt de 2 första åren på grund av att det var ont om pengar för att sköta om den och dåligt väder såklart.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+I November 2016 så blev jag anställd hos Elgiganten Borlänge i KNOWHOW-centret, trivdes väldigt bra där och lyckades tjäna ihop lite pengar för karten och annat skoj.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Intresset för programmering blev stort i grundskolan efter att jag fått programmera enklare legorobotar. Redan då hade jag bestämt mig för att bli någonslags programmerare. Sedan i gymnasiet efter min första webbutvecklingslektion så ändrade jag riktningen från att programmera robotar till att hålla på med webbprogrammering

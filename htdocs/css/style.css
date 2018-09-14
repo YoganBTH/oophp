@@ -23,6 +23,13 @@ body {
     padding: 0 0.5em;
 }
 
+/**
+ * Float right
+ */
+.right {
+    float: right;
+}
+
 
 
 /**
