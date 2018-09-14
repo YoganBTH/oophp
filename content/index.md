@@ -4,7 +4,7 @@ title: "Johans Me-Sida"
 Min me-sida i kursen oophp
 =========================
 
-<img class="me" src="img/me.jpg" alt="Johan i Gokart" class="right" width="100px">
+<img class="right" src="img/me.jpg" alt="Johan i Gokart">
 
 Tjena, Mitt namn är Johan Lundqvist. Uppväxt i Borlänge. Som liten spelade jag fotboll och sedan badminton. Sen fastnade jag för datorspel och slutade med sporter.
 

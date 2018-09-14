@@ -11,6 +11,6 @@ namespace Anax\View;
 
 ?>
 
-<!-- <div class="header">
-    HEADER
-</div> -->
+<div class="header">
+    <img class="header-logo" src="img/php.png" alt="Leaf" height="50px">
+</div>
