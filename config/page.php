@@ -26,12 +26,12 @@ return [
 
     // These views are always loaded into the collection of views.
     "views" => [
-        [
-            "template" => "anax/v2/header/default",
-            "region" => "header",
-            "sort" => -1,
-            "data" => null,
-        ],
+        // [
+        //     "template" => "anax/v2/header/default",
+        //     "region" => "header",
+        //     "sort" => -1,
+        //     "data" => null,
+        // ],
         [
             "template" => "anax/v2/navbar/default",
             "region" => "navbar",
